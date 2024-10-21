@@ -30,26 +30,6 @@ npm start    -  The frontend should now be running at http://localhost:3000
 ## Open your browser and navigate to http://localhost:3000. You should see the Markdown Editor and HTML Preview areas.
 
 ## You can type markdown text in the Markdown Editor and it will automatically convert and display the HTML in the HTML Preview section.
-Samples:
-
-- You can create a list:
-  - Item 1
-  - Item 2
-  - Item 3
-
-**Bold text** and *italic text*.
-
-## Unordered List
-
-- Apple
-- Banana
-- Cherry
-
-## Ordered List
-
-1. First item
-2. Second item
-3. Third item
 
 
 
