@@ -14,7 +14,7 @@ This is a simple Markdown editor and preview application built using **React** f
 
 Follow these steps to set up and run the Markdown App locally:
 
-### 1. Clone the Repository
+###  Clone the Repository
 git clone https://github.com/your-username/markdown-app.git
 cd markdown-app
 cd backend
